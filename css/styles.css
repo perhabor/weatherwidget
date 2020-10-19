@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url('../images/wa1.jpg');
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    color: #eee;
+    width: 100%;
+}
+
+body{
+    text-align: center;
+   
+    
+}
+
